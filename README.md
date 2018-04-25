@@ -1,2 +1,2 @@
 # tools
-code generator
+code generator/elasticsearch/distributelock
